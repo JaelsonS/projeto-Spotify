@@ -1,2 +1,2 @@
 # projeto-Spotify
-Projeto do site Spotify
+Projeto clone do site Spotify
